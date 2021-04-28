@@ -7,5 +7,5 @@ VM Azure com instalacao do MySQL
 ~> terraform plan
 ~> terraform apply
 
->>user     = "testdmin"
->>password = "Password1234!"
+>user     = "testdmin"
+>password = "Password1234!"

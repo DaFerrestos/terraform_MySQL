@@ -1,7 +1,7 @@
 # terraform_MySQL
 VM Azure com instalacao do MySQL
 
-##Para executar:
+## Para executar:
 
 ~> terraform init
 ~> terraform plan
